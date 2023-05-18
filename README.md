@@ -1,7 +1,7 @@
 # APLIKASI ANDROID
-###### Aplikasi android sederhana untuk menampilkan inputan data kedalam listview
+###### Aplikasi android sederhana untuk menampilkan inputan data kedalam listview Made By Nanar
 
-### Dibuat Oleh :
-##### Mochamad Idris
+### Made By :
+##### NANAR TYRTA PRAYUGA
 ### NIM
-##### G.111.21.1989
+##### G.211.20.0093
