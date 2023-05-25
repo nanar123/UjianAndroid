@@ -21,13 +21,9 @@ public class MainActivity extends AppCompatActivity {
         EditText edNamaDepan = (EditText) findViewById(R.id.edNamaDepan);
         EditText edNamaBelakang = (EditText) findViewById(R.id.edNamaBelakang);
         EditText edumur = (EditText) findViewById(R.id.edumur);
-
-
-
         Button btnSimpan = (Button) findViewById(R.id.btnSimpan);
 
         ArrayList<String> daftar_nama = new ArrayList<>();
-
 
         Intent intent_list = new Intent(MainActivity.this, ListActivity.class);
         int n = 100;
